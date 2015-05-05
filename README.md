@@ -8,3 +8,20 @@
     * This is indented four spaces, because it's two spaces further than the item above.
     * You might want to consider making a new list.
 3. Item 3
+
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
+```
+def foo():
+    if not bar:
+        return True
+```python
+
+def foo():
+    if not bar:
+        return True
+```
