@@ -1,25 +1,9 @@
-# nucleo
+Analysis of epigenetic data
+=
 
-1. Item 1
-  1. A corollary to the above item.
-  2. Yet another point to consider.
-2. Item 2
-  * A corollary that does not need to be ordered.
-    * This is indented four spaces, because it's two spaces further than the item above.
-    * You might want to consider making a new list.
-3. Item 3
+Project done as part of computational biology class. The goal was to develop code for analysis of a biologically relevant problem. In current project we studied influence of methylation patterns on the positioning of nucleosomes. We worked with two cell lines:
 
-```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-```
-   
-```python
+1. GM12878
+2. K562
 
-def foo():
-    if not bar:
-        return True
-```
+Data comes as part of ENCODE project.
