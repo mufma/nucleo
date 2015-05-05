@@ -6,4 +6,4 @@ Project done as part of computational biology class. The goal was to develop cod
 1. GM12878
 2. K562
 
-Data comes as part of ENCODE project.
+These cell lines have both methylation and nucleosomes data, from MeDIP-seq and MNase-seq experiments correspondently.   
